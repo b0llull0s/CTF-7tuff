@@ -11,3 +11,4 @@ for cmd in $(cat ${command_file}); do
 done
 
 #By 0xdf
+#Create a list with the commands you want to test and give as argument
